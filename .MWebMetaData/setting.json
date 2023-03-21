@@ -1,0 +1,9 @@
+{
+  "name" : "Note",
+  "fileExtension" : ".md",
+  "autoUploadInsertedImage" : false,
+  "folderType" : 10,
+  "mediaFloder" : "media",
+  "orderBy" : 4,
+  "newlinesToBR" : 0
+}
